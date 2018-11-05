@@ -13,7 +13,8 @@
 
 ## 插件教程
 
-* [生存辅助类插件](plugins/survice.md)
-* [建筑辅助类插件](plugins/builder.md)
-* [娱乐类插件](plugins/entertainment.md)
-* [经济相关类插件](economy.md)
+* [生存辅助类插件](cha-jian-jiao-cheng/survice.md)
+* [建筑辅助类插件](cha-jian-jiao-cheng/builder.md)
+* [娱乐类插件](cha-jian-jiao-cheng/entertainment.md)
+* [经济相关类插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-lei-cha-jian.md)
+

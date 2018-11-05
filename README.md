@@ -1,7 +1,3 @@
----
-description: 欢迎来到竹萌百科~
----
-
 # 首页
 
 **服务器白名单开启中，**[**点击申请**](https://forms.office.com/Pages/ResponsePage.aspx?id=wUhacMO_9k66h6T5cWQiUpH3RNgFwWFFvK92BHrOejlUQjdSVkNJN0U2VkVLTUc4SFlHQkhQRjlETi4u)
