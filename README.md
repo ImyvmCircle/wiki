@@ -1,18 +1,18 @@
 # 首页
 
-**服务器白名单开启中，**[**点击申请**](xin-ren-bang-zhu.md)
+**服务器白名单开启中，**[**点击申请**](https://forms.office.com/Pages/ResponsePage.aspx?id=wUhacMO_9k66h6T5cWQiUpH3RNgFwWFFvK92BHrOejlUQjdSVkNJN0U2VkVLTUc4SFlHQkhQRjlETi4u)
 
 欢迎来到竹萌百科~
 
 服务器版本：SpigotMC 1.12.2 **正版验证**
 
-[主页](https://github.com/ImyvmCircle/wiki/tree/9e9c1614ab45bd8c2c6ccd652928985ac8c6a5fe/[https:/imyvm.com%7C) \| [竹萌的后花园](https://discuss.imyvm.com|) \| [常见问题](https://github.com/ImyvmCircle/wiki/tree/9e9c1614ab45bd8c2c6ccd652928985ac8c6a5fe/start/常见问题.md) \| [竹萌禁忌](https://github.com/ImyvmCircle/wiki/tree/9e9c1614ab45bd8c2c6ccd652928985ac8c6a5fe/start/竹萌禁忌.md) \| [动态地图](https://github.com/ImyvmCircle/wiki/tree/9e9c1614ab45bd8c2c6ccd652928985ac8c6a5fe/[https:/map.imyvm.com%7C)
+[主页](https:/imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com) \| [常见问题](start/常见问题.md) \| [竹萌禁忌](start/竹萌禁忌.md) \| [动态地图](https:/map.imyvm.com)
 
 ## 服务器设定
 
 服务器采用Bungeecord群组各服务器，玩家可使用`/server 服务器代号` 穿梭于各服务器。
 
-服务器具体设定请参阅[世界设定](https://github.com/ImyvmCircle/wiki/tree/9e9c1614ab45bd8c2c6ccd652928985ac8c6a5fe/start/世界设定.md)。
+服务器具体设定请参阅[世界设定](start/世界设定.md)。
 
 ## 服务器地址
 
@@ -32,5 +32,5 @@
 
 * QQ群：170988020
 * Discord：[https://discord.gg/GR68dwg](https://discord.gg/GR68dwg)
-* 更多联系方式请参阅[游戏群组](https://github.com/ImyvmCircle/wiki/tree/9e9c1614ab45bd8c2c6ccd652928985ac8c6a5fe/start/游戏群组.md)
+* 更多联系方式请参阅[游戏群组](start/游戏群组.md)
 
