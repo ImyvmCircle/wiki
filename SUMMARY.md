@@ -13,15 +13,15 @@
 
 ## 主世界
 
-* [经济系统](zhu-shi-jie/jing-ji-xi-tong.md)
-* [玩家权限组](zhu-shi-jie/wan-jia-quan-xian-zu.md)
-* [建筑师申请\|升级\|权益介绍](zhu-shi-jie/jian-zhu-shi-shen-qing-sheng-ji-quan-yi-jie-shao.md)
-* [村落（小镇）](zhu-shi-jie/villages.md)
+* [经济系统](mainworld/jing-ji-xi-tong.md)
+* [玩家权限组](mainworld/wan-jia-quan-xian-zu.md)
+* [建筑师申请\|升级\|权益介绍](mainworld/jian-zhu-shi-shen-qing-sheng-ji-quan-yi-jie-shao.md)
+* [村落（小镇）](mainworld/villages.md)
 
 ## 插件教程
 
-* [生存辅助类插件](cha-jian-jiao-cheng/survice.md)
-* [建筑辅助类插件](cha-jian-jiao-cheng/builder.md)
-* [娱乐类插件](cha-jian-jiao-cheng/entertainment.md)
-* [经济相关类插件](cha-jian-jiao-cheng/economy.md)
+* [生存辅助类插件](p_tutorials/survice.md)
+* [建筑辅助类插件](p_tutorials/builder.md)
+* [娱乐类插件](p_tutorials/entertainment.md)
+* [经济相关类插件](p_tutorials/economy.md)
 
