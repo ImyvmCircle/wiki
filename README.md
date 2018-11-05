@@ -1,6 +1,10 @@
 # 首页
 
+<<<<<<< HEAD
 **服务器白名单开启中，**[**点击申请**](https://forms.office.com/Pages/ResponsePage.aspx?id=wUhacMO_9k66h6T5cWQiUpH3RNgFwWFFvK92BHrOejlUQjdSVkNJN0U2VkVLTUc4SFlHQkhQRjlETi4u)
+=======
+**服务器白名单开启中，**[**点击申请**](help.md)
+>>>>>>> 46661a50e429ced44f2449f731b16158ecdc7125
 
 欢迎来到竹萌百科~
 
