@@ -11,6 +11,10 @@
 * [常见问题](start/chang-jian-wen-ti.md)
 * [游戏群组](start/you-xi-qun-zu.md)
 
+## 世界设定
+
+* [世界简介](worlds/intros.md)
+
 ## 插件教程
 
 * [生存辅助类插件](cha-jian-jiao-cheng/survice.md)
