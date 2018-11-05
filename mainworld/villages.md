@@ -19,7 +19,7 @@
 
 ## 村落（小镇）介绍
 
-* \[\[世界设定:主世界:村落:BLUE SEA\|BLUE SEA\]\]
+* [BLUE SEA](mainworld/villages/BLUE_SEA.md)
 * \[\[世界设定:主世界:村落:Still Creek\|Still Creek\]\]
 * \[\[世界设定:主世界:村落:小泉村\|小泉村\]\]
 * \[\[世界设定:主世界:村落:临冬镇\|临冬镇\]\]
