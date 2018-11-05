@@ -16,5 +16,5 @@
 * [生存辅助类插件](cha-jian-jiao-cheng/survice.md)
 * [建筑辅助类插件](cha-jian-jiao-cheng/builder.md)
 * [娱乐类插件](cha-jian-jiao-cheng/entertainment.md)
-* [经济相关类插件](cha-jian-jiao-cheng/jing-ji-xiang-guan-lei-cha-jian.md)
+* [经济相关类插件](cha-jian-jiao-cheng/economy.md)
 
