@@ -2,7 +2,7 @@
 
 这里介绍服务器内有关经济系统的插件。
 
-# <del>shopkeeper插件</del>
+## <del>shopkeeper插件</del>
 
 **(已取消)**
 * 准备工作
