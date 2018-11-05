@@ -6,12 +6,12 @@
 
 服务器版本：SpigotMC 1.12.2 **正版验证**
 
-[主页]([https://imyvm.com|) | [竹萌的后花园](https://discuss.imyvm.com|) | [常见问题](常见问题.md) | [竹萌禁忌](竹萌禁忌.md) | [动态地图]([https://map.imyvm.com|)
+[主页]([https://imyvm.com|) | [竹萌的后花园](https://discuss.imyvm.com|) | [常见问题](/start/常见问题.md) | [竹萌禁忌](/start/竹萌禁忌.md) | [动态地图]([https://map.imyvm.com|)
 
 ## 服务器设定
 服务器采用Bungeecord群组各服务器，玩家可使用``/server 服务器代号`` 穿梭于各服务器。
 
-服务器具体设定请参阅[世界设定](世界设定.md)。
+服务器具体设定请参阅[世界设定](/start/世界设定.md)。
 
 ## 服务器地址
 
@@ -30,5 +30,5 @@
 您可以在以下位置找到我们：
   * QQ群：170988020
   * Discord：https://discord.gg/GR68dwg
-  * 更多联系方式请参阅[游戏群组](游戏群组.md)
+  * 更多联系方式请参阅[游戏群组](/start/游戏群组.md)
 
