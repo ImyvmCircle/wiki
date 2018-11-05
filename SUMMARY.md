@@ -5,9 +5,9 @@
 
 ## Start
 
-* [竹萌禁忌](start/竹萌禁忌.md)
-* [世界设定](start/世界设定.md)
-* [常用指令](start/常用指令.md)
-* [常见问题](start/常见问题.md)
-* [游戏群组](start/游戏群组.md)
+* [竹萌禁忌](start/zhu-meng-jin-ji.md)
+* [世界设定](start/shi-jie-she-ding.md)
+* [常用指令](start/chang-yong-zhi-ling.md)
+* [常见问题](start/chang-jian-wen-ti.md)
+* [游戏群组](start/you-xi-qun-zu.md)
 
