@@ -13,18 +13,18 @@
 
 ## 主世界
 
-* [经济系统](mainworld/economy.md)
-* [玩家权限组](mainworld/permissions.md)
-* [公共建筑](mainworld/buildings.md)
-* [建筑师申请\|升级\|权益介绍](mainworld/builders.md)
-* [精英怪世界](mainworld/infernal.md)
-* [兑换系统](mainworld/exchanges.md)
-* [村落（小镇）](mainworld/villages.md)
+* [经济系统](zhu-shi-jie/economy.md)
+* [玩家权限组](zhu-shi-jie/permissions.md)
+* [公共建筑](zhu-shi-jie/buildings.md)
+* [建筑师申请\|升级\|权益介绍](zhu-shi-jie/builders.md)
+* [精英怪世界](zhu-shi-jie/infernal.md)
+* [兑换系统](zhu-shi-jie/exchanges.md)
+* [村落（小镇）](zhu-shi-jie/villages.md)
 
 ## 插件教程
 
-* [生存辅助类插件](tutrials/survice.md)
-* [建筑辅助类插件](tutrials/builder.md)
-* [娱乐类插件](tutrials/entertainment.md)
-* [经济相关类插件](tutrials/economy.md)
+* [生存辅助类插件](cha-jian-jiao-cheng/survice.md)
+* [建筑辅助类插件](cha-jian-jiao-cheng/builder.md)
+* [娱乐类插件](cha-jian-jiao-cheng/entertainment.md)
+* [经济相关类插件](cha-jian-jiao-cheng/economy.md)
 
