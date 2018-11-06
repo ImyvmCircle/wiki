@@ -10,19 +10,20 @@
 * [常见问题](start/fqs.md)
 * [游戏群组](start/groups.md)
 
-## [世界设定](start/worlds.md)
-* 主世界
-    * [经济系统](zhu-shi-jie/economy.md)
-    * [玩家权限组](zhu-shi-jie/permissions.md)
-    * [公共建筑](zhu-shi-jie/buildings.md)
-    * [建筑师申请\|升级\|权益介绍](zhu-shi-jie/builders.md)
-    * [精英怪世界](zhu-shi-jie/infernal.md)
-    * [兑换系统](zhu-shi-jie/exchanges.md)
-    * [村落（小镇）](zhu-shi-jie/villages.md)
-        * [BLUE_SEA](zhu-shi-jie/villages/BLUE_SEA.md)
-* 小游戏世界
-    * [自制小游戏]
-    * [经典插件小游戏]
+## 世界设定
+
+* [主世界](shi-jie-she-ding/zhu-shi-jie/README.md)
+  * [经济系统](shi-jie-she-ding/zhu-shi-jie/economy.md)
+  * [玩家权限组](shi-jie-she-ding/zhu-shi-jie/permissions.md)
+  * [公共建筑](shi-jie-she-ding/zhu-shi-jie/buildings.md)
+  * [建筑师申请\|升级\|权益介绍](shi-jie-she-ding/zhu-shi-jie/builders.md)
+  * [精英怪世界](shi-jie-she-ding/zhu-shi-jie/infernal.md)
+  * [兑换系统](shi-jie-she-ding/zhu-shi-jie/exchanges.md)
+  * [村落（小镇）](shi-jie-she-ding/zhu-shi-jie/villages/README.md)
+    * [BLUE\_SEA](shi-jie-she-ding/zhu-shi-jie/villages/blue_sea.md)
+* [小游戏世界](shi-jie-she-ding/xiao-you-xi-shi-jie/README.md)
+  * [\[自制小游戏\]](shi-jie-she-ding/xiao-you-xi-shi-jie/zi-zhi-xiao-you-xi.md)
+  * [\[经典插件小游戏\]](shi-jie-she-ding/xiao-you-xi-shi-jie/jing-dian-cha-jian-xiao-you-xi.md)
 
 ## 插件教程
 

@@ -19,10 +19,8 @@
 
 ## 村落（小镇）介绍
 
-* [BLUE SEA](villages/BLUE_SEA.md)
+* [BLUE SEA](https://github.com/ImyvmCircle/wiki/tree/23516ee090a0375fe3a8c9644a39da9c3baa93ef/zhu-shi-jie/villages/BLUE_SEA.md)
 * \[\[世界设定:主世界:村落:Still Creek\|Still Creek\]\]
 * \[\[世界设定:主世界:村落:小泉村\|小泉村\]\]
 * \[\[世界设定:主世界:村落:临冬镇\|临冬镇\]\]
-
-
 
