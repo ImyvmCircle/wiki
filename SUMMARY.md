@@ -20,6 +20,7 @@
 * [精英怪世界](zhu-shi-jie/infernal.md)
 * [兑换系统](zhu-shi-jie/exchanges.md)
 * [村落（小镇）](zhu-shi-jie/villages.md)
+    * [村落（小镇）](zhu-shi-jie/villages/BLUE_SEA.md)
 
 ## 插件教程
 
