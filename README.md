@@ -22,7 +22,7 @@
 
 ## 联系
 
-[竹萌主页](https://imyvm.com) \| [竹萌百科](https://imyvm.com/wiki) \| [竹萌的后花园](https://discuss.imyvm.com)
+[竹萌主页](https://imyvm.com) \| [竹萌百科](https://wiki.imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com)
 
 如果需要帮助，请在游戏内直接联系管理员。
 
