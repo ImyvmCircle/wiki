@@ -19,10 +19,11 @@
 
 ## 村落（小镇）介绍
 
-* [BLUE SEA](blue_sea.md)
-* [Still Creek](still_creek.md)
-* 小泉
-* 临冬
+* [蓝海BLUE SEA](blue_sea.md)
+* [静溪Still Creek](still_creek.md)
+* [小泉Spring]
+* [临冬Winterfell]
+* [大萝莉镇Superloli]
 
 
 
