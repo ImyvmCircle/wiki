@@ -21,8 +21,8 @@
 
 * [蓝海BLUE SEA](blue_sea.md)
 * [静溪Still Creek](still_creek.md)
-* [小泉Spring]
-* [临冬Winterfell]
+* [小泉Spring](xiao-quan.md)
+* [临冬Winterfell](winterfell.md)
 * [大萝莉镇Superloli]
 
 
