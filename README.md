@@ -4,13 +4,13 @@
 
 服务器版本：SpigotMC 1.12.2 **正版验证**
 
-[主页](https://imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com) \| [常见问题](https://github.com/ImyvmCircle/wiki/start/常见问题.md) \| [竹萌禁忌](https://github.com/ImyvmCircle/wiki/start/竹萌禁忌.md) \| [动态地图](https://map.imyvm.com)
+[主页](https://imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com) \| [常见问题](https://github.com/ImyvmCircle/wiki/blob/master/start/fqs.md) \| [竹萌禁忌](https://github.com/ImyvmCircle/wiki/blob/master/start/rules.md) \| [动态地图](https://map.imyvm.com)
 
 ## 服务器设定
 
 服务器采用Bungeecord群组各服务器，玩家可使用`/server 服务器代号` 穿梭于各服务器。
 
-服务器具体设定请参阅[世界设定](https://github.com/ImyvmCircle/wiki/start/世界设定.md)。
+服务器具体设定请参阅[世界设定](https://github.com/ImyvmCircle/wiki/blob/master/start/worlds.md)。
 
 ## 服务器地址
 
