@@ -75,7 +75,7 @@
 
 ## 物品邮箱
 
-竹萌自开发插件：[Repository](https://github.com/ImyvmCircle/ItemMail|)
+竹萌自开发插件：[Repository](https://github.com/ImyvmCircle/ItemMail|)，该插件用于未来世界与主世界间传送物品，费用：2.33 D/个。
 
 * `/itemmail send [player]` - 发送物品给自己或其他玩家.
 * `/itemmail get` - 从远程箱中取回物品

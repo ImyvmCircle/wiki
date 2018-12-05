@@ -23,7 +23,5 @@
 * [静溪Still Creek](still_creek.md)
 * [小泉Spring](xiao-quan.md)
 * [临冬Winterfell](winterfell.md)
-* [大萝莉镇Superloli]
-
-
+* \[大萝莉镇Superloli\]
 
