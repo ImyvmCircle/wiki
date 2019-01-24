@@ -9,6 +9,7 @@
 * [常用指令](start/commands.md)
 * [常见问题](start/fqs.md)
 * [游戏群组](start/groups.md)
+* [世界设定](start/worlds.md)
 
 ## 世界设定
 
