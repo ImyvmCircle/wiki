@@ -26,8 +26,8 @@
     * [小泉](shi-jie-she-ding/zhu-shi-jie/villages/xiao-quan.md)
     * [临冬](shi-jie-she-ding/zhu-shi-jie/villages/winterfell.md)
 * [小游戏世界](shi-jie-she-ding/xiao-you-xi-shi-jie/README.md)
-  * [\[自制小游戏\]](shi-jie-she-ding/xiao-you-xi-shi-jie/zi-zhi-xiao-you-xi.md)
-  * [\[经典插件小游戏\]](shi-jie-she-ding/xiao-you-xi-shi-jie/jing-dian-cha-jian-xiao-you-xi.md)
+  * [自制小游戏](shi-jie-she-ding/xiao-you-xi-shi-jie/zi-zhi-xiao-you-xi.md)
+  * [经典插件小游戏](shi-jie-she-ding/xiao-you-xi-shi-jie/jing-dian-cha-jian-xiao-you-xi.md)
 
 ## 插件教程
 
