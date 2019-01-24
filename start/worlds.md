@@ -13,12 +13,11 @@
 代号：`World`
 
 * 世界列表
-
   * `world` - 生存世界（包括下界及末地）
   * `Infernal` - 精英怪世界
 
 {% hint style="info" %}
-详情请参阅\[\[世界设定:主世界\|主世界\]\]
+详情请参阅[主世界](../shi-jie-she-ding/zhu-shi-jie/)
 {% endhint %}
 
 ## 小游戏世界
@@ -27,25 +26,25 @@
 
 代号：`Fun`
 
-详情请参阅\[\[世界设定:小游戏世界\|小游戏世界\]\]
+详情请参阅[小游戏世界](../shi-jie-she-ding/xiao-you-xi-shi-jie/)
 
 ## 创造世界
 
 代号：`Create`
 
-详情请参阅\[\[世界设定:创造世界\|创造世界\]\]
+详情请参阅[创造世界](../shi-jie-she-ding/chuang-zao-shi-jie.md)
 
 ## 怀旧世界
 
 代号：`Relic`
 
-详情请参阅\[\[世界设定:怀旧世界\|怀旧世界\]\]
+详情请参阅[怀旧世界](../shi-jie-she-ding/huai-jiu-shi-jie.md)
 
 ## 未来世界
 
 代号：`Future`
 
-详情请参阅\[\[世界设定:未来世界\|未来世界\]\]
+详情请参阅[未来世界](../shi-jie-she-ding/wei-lai-shi-jie.md)
 
 ## 活动世界
 

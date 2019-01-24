@@ -29,6 +29,10 @@
 * [小游戏世界](shi-jie-she-ding/xiao-you-xi-shi-jie/README.md)
   * [自制小游戏](shi-jie-she-ding/xiao-you-xi-shi-jie/zi-zhi-xiao-you-xi.md)
   * [经典插件小游戏](shi-jie-she-ding/xiao-you-xi-shi-jie/jing-dian-cha-jian-xiao-you-xi.md)
+* [创造世界](shi-jie-she-ding/chuang-zao-shi-jie.md)
+* [未来世界](shi-jie-she-ding/wei-lai-shi-jie.md)
+* [活动世界](shi-jie-she-ding/huo-dong-shi-jie.md)
+* [怀旧世界](shi-jie-she-ding/huai-jiu-shi-jie.md)
 
 ## 插件教程
 
