@@ -2,7 +2,7 @@
 
 **服务器白名单开启中，**[**点击申请**](https://forms.office.com/Pages/ResponsePage.aspx?id=wUhacMO_9k66h6T5cWQiUpH3RNgFwWFFvK92BHrOejlUQjdSVkNJN0U2VkVLTUc4SFlHQkhQRjlETi4u)
 
-服务器版本：SpigotMC 1.12.2 **正版验证**
+服务器版本：SpigotMC 1.13.2 **正版验证**
 
 [主页](https://imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com) \| [常见问题](https://github.com/ImyvmCircle/wiki/blob/master/start/fqs.md) \| [竹萌禁忌](https://github.com/ImyvmCircle/wiki/blob/master/start/rules.md) \| [动态地图](https://map.imyvm.com)
 
