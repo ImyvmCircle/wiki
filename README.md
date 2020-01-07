@@ -18,7 +18,6 @@
 
 如果你是第一次来到竹萌或者并不熟知服务器的生存内容，请参阅[Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com/教程)
 
-![](https://minecraft-mp.com/banner-176439-5.png)
 
 ## 联系
 
