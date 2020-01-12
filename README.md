@@ -1,6 +1,6 @@
 # 首页
 
-**服务器白名单开启中，**[**点击申请**](https://www.jsform.com/web/formview/5b78e93175a03c5d7d0b4b39)
+**服务器白名单开启中，**[**点击申请**](https://apply.imyvm.com)
 
 服务器版本：SpigotMC 1.15.1 **正版验证**
 
