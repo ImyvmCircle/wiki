@@ -13,7 +13,7 @@
 
 ## 世界设定
 
-* [主世界](shi-jie-she-ding/zhu-shi-jie/README.md)
+* [永恒世界](shi-jie-she-ding/zhu-shi-jie/README.md)
   * [经济系统](shi-jie-she-ding/zhu-shi-jie/economy.md)
   * [玩家权限组](shi-jie-she-ding/zhu-shi-jie/permissions.md)
   * [公共建筑](shi-jie-she-ding/zhu-shi-jie/buildings.md)
