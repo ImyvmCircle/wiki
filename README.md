@@ -31,4 +31,4 @@
 * Discord：[https://discord.gg/GR68dwg](https://discord.gg/GR68dwg)
 * 更多联系方式请参阅[游戏群组](/start/游戏群组.md)
 
-[url=http://c7.gg/arNWx][img][/img][/url]
+![status](http://tietu.zuimc.com/server.php?hostname=%E7%AB%B9%E8%90%8C%E6%9C%8D%E5%8A%A1%E5%99%A8&host=play.imyvm.com&motd=生存|小游戏|创作平台 Q群170988020&line=3&bc=1)
