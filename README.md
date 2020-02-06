@@ -31,3 +31,4 @@
 * Discord：[https://discord.gg/GR68dwg](https://discord.gg/GR68dwg)
 * 更多联系方式请参阅[游戏群组](/start/游戏群组.md)
 
+[url=http://c7.gg/arNWx][img][/img][/url]
