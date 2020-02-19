@@ -8,65 +8,10 @@ description: 本页面由东海维护
 
 * 类型：玩家村落
 * 范围：\(324,2900\)—\(1750,4050\)及周边毗连区域、南方铁塔毗连区 
-* 主要成员：JoeCrazy、Memory\_eastsea、NightPrince24k、Modern\_Mad、Forever\_Gayxing、Tian\_shang\_hai、lifemoster、MC\_haizhi、MC\_puffssharon、xiao\_ma\_jia、Sineko\_Naki、MC\_wyw、Xingkong\_qiuye、malajisi、Two\_Qian、Qi\_Jun、Chitti、chyhhwen、XguaI1109、Rancher\_jie、Yu\_AO、Ai\_Nan、Der\_Links、Ling\_zhanshen、An\_Yin、Liimor\_Mugenn、Arcsion、Sandwich\_Orange、BZLjjvv、To\_make\_fun、EarlCharlie、502\_101、A\_PolarTiger\_Fen、Yezi\_rr、Long\_Ping、Ike\_Rogers、Zishu\_233、Giorno、overmiku、NorthColor、NigerSong、Ice\_Emperor、jcottonq、Juice\_Creeper、Demonsnowolf等
+* 主要成员：JoeCrazy、Memory\_eastsea、NightPrince24k、Modern\_Mad、Forever\_Gayxing、Tian\_shang\_hai、lifemoster、MC\_haizhi、MC\_puffssharon、xiao\_ma\_jia、Sineko\_Naki、MC\_wyw、Xingkong\_qiuye、malajisi、Two\_Qian、Qi\_Jun、Chitti、chyhhwen、XguaI1109、Rancher\_jie、Yu\_AO、Ai\_Nan、Der\_Links、Ling\_zhanshen、An\_Yin、Liimor\_Mugenn、Arcsion、Sandwich\_Orange、BZLjjvv、To\_make\_fun、EarlCharlie、502\_101、A\_PolarTiger\_Fen、Yezi\_rr、Long\_Ping、Ike\_Rogers、Zishu\_233、Giorno、overmiku、jcottonq、Juice\_Creeper、Demonsnowolf等
 目前临冬管理组：malajisi Demonsnowolf NumberZero_fen BZLjjvv
 
 两座冰刺山下的山谷，丝带般环绕聚落的临冬河。这里，密林在左，红林在右。临冬雪原上的星落般的屋舍，常常隐秘在千年的霜雪中。横跨雪原的主镇临冬，深林深处可堪探访的山村西林，更有冰刺山后建设中的机场与幻想。黑城堡里的守夜人驻守着通向北方的道路，旧神心树的眼睛注视着人烟稠密的街行。这里，是竹萌南方的临冬。
 
-## 冬镇历史
 
-* 一七年夏六月二十九日，守护与东某骑马南下南境，到达今冬镇位置。
-* 七月初，团人大至，在此地聚居修建房屋。
-* 九月二十三日，定镇名曰临冬。
-* 十月，各类基础设施建设，修建冬镇塔。陵东北成立。
-* 十一月，修建冬镇地铁系统，完成一号线的基础建设。
-* 十二月，连接服务器铁路系统。
-* 新年一月，黑城堡开始修建。橘子平九万余格土地。
-* 二月～四月，大改造持续进行中。
-
-## 冬镇
-
-* 最早，冬镇民本多同窗，后稍吸纳之，游历一同。
-* 地处雪原，建筑多以云杉。
-* 冬镇民少有约束，平日到处嬉游，随性漫乐而为，唯遇建筑劳力之事，方鱼贯而出。
-* 则怪界远征，常有众人同赴，作壁上观。战士往战，友军有难，不动如山。如遇不幸战死沙场之事，则往往双字与赠之。
-* 镇临冰刺之地。窄巷密布，游者多怨迷路失途，而镇民亦有迷路之时。
-* 镇有酒吧名羽笔者，每遇礼庆之事，则礼尚往来，河畔醉酒，岂可少哉？欢饮杜康，醉街达旦，而后两眼常常昏花，偶然因坠扑街，常事。
-* 据说唯一一个不会在临冬城迷路的人是东海。镇长也经常不时迷路。
-* 在临冬，村长变成传说是有原因的---麻辣鸡丝如是说
-* 编辑者太懒了，剩下的之后再加上吧owo
-
-## 临冬城迷路的指南
-
-众所周知，临冬城是一座极容易迷路的镇子。东海分析，临冬城让人迷路主要是因为最初规划时期缺少了主干道，并且本身建成区较大所致。那么，新人来到临冬，有什么办法不迷路呢。
-
-* 记住两大地标的连线，心树和冬塔
-* 沿着地铁线路了解临冬
-* 熟练使用动态地图，请详见竹萌维基里面的\[\[:插件教程\|插件教程\]\]
-* 沿着地狱冰道系统了解临冬
-
-## 收入规则
-
-如果你是新人，想要加入临冬，请确保自己满足以下几点要求
-
-* 最好为生存家
-* 拥有建筑和红石在内的至少一项特长
-* 愿意服从指挥，不乱搭乱建，遵守规则
-* 态度友好，愿意与人交流
-
-## 临冬城附加规定
-
-* 不得建造丑陋、不雅建筑、标准长方体火柴盒，违者一律无条件爆破
-* 必须遵守服务器的规定
-* 未经允许，严禁在临冬城建筑／定居
-
-## 冬镇图廊
-
-![](https://i.loli.net/2018/04/21/5adb0721b8203.png)
-
-编辑者太懒了，稍后再添加上来owo
-
-## 临冬格言
-
-`凛冬将至`
 
