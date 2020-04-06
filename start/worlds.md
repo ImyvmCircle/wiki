@@ -15,7 +15,7 @@
   * `Infernal` - 精英怪世界
 
 {% hint style="info" %}
-详情请参阅[主世界](../yong-heng-shi-jie/zhu-shi-jie.md)
+详情请参阅[主世界](../shi-jie-she-ding/zhu-shi-jie/)
 {% endhint %}
 
 ## 小游戏世界
@@ -36,7 +36,7 @@
 
 ~~代号：`Relic`~~
 
-~~详情请参阅~~[~~怀旧世界~~]()~~~~
+~~详情请参阅~~[~~怀旧世界~~](../shi-jie-she-ding/huai-jiu-shi-jie.md)~~~~
 
 ## 未来世界
 
