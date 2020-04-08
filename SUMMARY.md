@@ -10,6 +10,7 @@
 * [常见问题](start/fqs.md)
 * [游戏群组](start/groups.md)
 * [世界设定](start/worlds.md)
+* [活动记录](start/huo-dong-ji-lu.md)
 
 ## 永恒世界 <a id="server-world"></a>
 
