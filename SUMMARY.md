@@ -43,12 +43,12 @@
   * [海上对弈](server-fun/zi-zhi-xiao-you-xi/hai-shang-dui-yi.md)
   * [海底世界](server-fun/zi-zhi-xiao-you-xi/hai-di-shi-jie.md)
   * [沙漠世界](server-fun/zi-zhi-xiao-you-xi/sha-mo-shi-jie.md)
-* [创造世界](chuang-zao-shi-jie.md)
+* [创造世界](server-fun/chuang-zao-shi-jie.md)
 
 ## 未来世界 <a id="server-future"></a>
 
 * [概述](server-future/index.md)
 * [插件](server-future/plugins.md)
 * [版本更新记录](server-future/version-changelogs.md)
-* [活动世界](huo-dong-shi-jie.md)
+* [活动世界](server-future/huo-dong-shi-jie.md)
 

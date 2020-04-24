@@ -24,7 +24,7 @@
 
 代号：`create`
 
-{% page-ref page="../chuang-zao-shi-jie.md" %}
+{% page-ref page="../server-fun/chuang-zao-shi-jie.md" %}
 
 ## 未来世界
 
@@ -36,5 +36,5 @@
 
 代号: `event`
 
-{% page-ref page="../huo-dong-shi-jie.md" %}
+{% page-ref page="../server-future/huo-dong-shi-jie.md" %}
 
