@@ -4,7 +4,7 @@
 
 服务器版本：SpigotMC 1.15.2 **正版验证**
 
-[主页](https://imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com) \| [常见问题](start/fqs.md) \| [竹萌禁忌](start/rules.md) \| [动态地图](https://map.imyvm.com)
+[主页](https://imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.com) \| [常见问题](start/fqs.md) \| [竹萌规则](start/rules.md) \| [动态地图](https://map.imyvm.com)
 
 ## 服务器设定
 
