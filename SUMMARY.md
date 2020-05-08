@@ -5,7 +5,7 @@
 
 ## Start
 
-* [竹萌禁忌](start/rules.md)
+* [竹萌规则](start/rules.md)
 * [常用指令](start/commands.md)
 * [常见问题](start/fqs.md)
 * [游戏群组](start/groups.md)
