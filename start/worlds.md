@@ -36,5 +36,5 @@
 
 代号: `event`
 
-{% page-ref page="../server-future/huo-dong-shi-jie.md" %}
+{% page-ref page="../huo-dong-shi-jie.md" %}
 

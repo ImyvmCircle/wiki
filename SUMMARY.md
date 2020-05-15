@@ -50,5 +50,5 @@
 * [概述](server-future/index.md)
 * [插件](server-future/plugins.md)
 * [版本更新记录](server-future/version-changelogs.md)
-* [活动世界](server-future/huo-dong-shi-jie.md)
+* [活动世界](huo-dong-shi-jie.md)
 
