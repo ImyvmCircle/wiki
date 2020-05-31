@@ -9,5 +9,5 @@
 * `/imail merge`：打包背包内的物品
 * `/imail open`：打开远程箱（仅查看）
 
-其中为了避免 `/imail send` 、 `/imail sendtotal` 和 `/imail merge` 误触（导致不必要的支出），这两个操作均需要通过再执行 `/imail confirm` 来确认。
+其中为了避免 `/imail send` 、 `/imail sendtotal` 和 `/imail merge` 误触（导致不必要的支出），这些操作均需要通过再执行 `/imail confirm` 来确认。
 
