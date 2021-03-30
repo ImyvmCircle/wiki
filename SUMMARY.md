@@ -43,7 +43,10 @@
   * [海上对弈](server-fun/zi-zhi-xiao-you-xi/hai-shang-dui-yi.md)
   * [海底世界](server-fun/zi-zhi-xiao-you-xi/hai-di-shi-jie.md)
   * [沙漠世界](server-fun/zi-zhi-xiao-you-xi/sha-mo-shi-jie.md)
-* [创造世界](server-fun/chuang-zao-shi-jie.md)
+
+## 创造世界 <a id="server-create"></a>
+
+* [概述](server-create/index.md)
 
 ## 未来世界 <a id="server-future"></a>
 
