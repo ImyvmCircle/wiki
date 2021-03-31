@@ -29,9 +29,13 @@
   * [经济相关类插件](server-world/plugins/economy.md)
 * [村落](server-world/villages/README.md)
   * [BLUE\_SEA](server-world/villages/blue_sea.md)
-  * [still\_creek](server-world/villages/still_creek.md)
-  * [小泉](server-world/villages/xiao-quan.md)
-  * [临冬](server-world/villages/winterfell.md)
+  * [STILL\_CREEK](server-world/villages/still_creek.md)
+  * [堕落之巅](server-world/villages/duo-luo-zhi-dian.md)
+  * [鸠羽村](server-world/villages/jiu-yu.md)
+  * [临冬城](server-world/villages/winterfell.md)
+  * [猫屁市](server-world/villages/mao-pi.md)
+  * [小泉村](server-world/villages/xiao-quan.md)
+  * [雁落平阳](server-world/villages/yan-luo-ping-yang.md)
 
 ## 小游戏世界 <a id="server-fun"></a>
 
@@ -47,11 +51,15 @@
 ## 创造世界 <a id="server-create"></a>
 
 * [概述](server-create/index.md)
+* [插件](server-create/plugins.md)
 
 ## 未来世界 <a id="server-future"></a>
 
 * [概述](server-future/index.md)
 * [插件](server-future/plugins.md)
 * [版本更新记录](server-future/version-changelogs.md)
-* [活动世界](huo-dong-shi-jie.md)
+
+## 活动世界 <a id="server-event"></a>
+
+* [概述](server-event/index.md)
 
