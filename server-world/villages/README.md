@@ -4,7 +4,8 @@
 为鼓励玩家群居，特设定村落，申请建立村落成功将可以获得村落专属徽章。同时，村落为提高人气与便捷性，可向服务器（管理员）申请购买一些基础设施服务。
 {% endhint %}
 
-相关指令：`/itown`，相关讨论：[村落系统\|申请\|功能\|福利介绍](https://discuss.imyvm.com/d/242--)
+相关指令：`/itown`
+，相关讨论：[村落系统\|申请\|功能\|福利介绍](https://discuss.imyvm.com/d/242--)
 
 ## 福利
 
@@ -48,16 +49,17 @@
 
 ## 村落介绍
 
-村落排序与游戏内 `/itown` 的排序相同。
+村落排序为村落名称字母\(a-z\)所排序。
 
-* [临冬 Winterfell](winterfell.md)
-* [猫屁市](https://discuss.imyvm.com/d/286--)
 * 百兽海盗团（管理员示范村落）
-* 堕落之巅
-* [鸠羽村](https://discuss.imyvm.com/d/311--)
-* [临冬龙榆岭](https://discuss.imyvm.com/d/304--)（附属于临冬）
-* [蓝海 BLUE SEA](blue_sea.md)（旧村落）
-* [静溪 Still Creek](still_creek.md)（旧村落）
-* [小泉 Spring](xiao-quan.md)（旧村落）
 * 大萝莉镇 Superloli（旧村落）
+* 堕落之巅
+* [静溪 STILL CREEK](still_creek.md)（旧村落）
+* [鸠羽村](jiu-yu.md)
+* [蓝海 BLUE SEA](blue_sea.md)（旧村落）
+* [临冬城 Winterfell](winterfell.md)
+* [临冬龙榆岭](https://discuss.imyvm.org/d/304--)（附属于临冬）
+* [猫屁市](mao-pi.md)
+* [小泉村](xiao-quan.md)（旧村落）
+* 雁落平阳
 
