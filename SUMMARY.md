@@ -34,7 +34,7 @@
   * [鸠羽村](server-world/villages/jiu-yu.md)
   * [蓝海村](server-world/villages/blue_sea.md)
   * [临冬城](server-world/villages/winterfell.md)
-    * [临冬龙榆岭](server-world/villages/winterfell-dragonhorn.md)
+    * [龙榆岭](server-world/villages/dragonhorn.md)
   * [猫屁市](server-world/villages/mao-pi.md)
   * [小泉村](server-world/villages/xiao-quan.md)
   * [雁落平阳](server-world/villages/yan-luo-ping-yang.md)
