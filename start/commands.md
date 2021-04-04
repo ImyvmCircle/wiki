@@ -2,7 +2,7 @@
 
 * 本表格将包含竹萌 Minecraft 服务器的大部分常用指令与说明，没有标明收费的即可免费使用。
 * 若需手持物品，如无特殊说明，均为**主手持有**。
-* 更多详细指令可查阅竹萌百科的其它相关页面，也可通过在游戏内输入 `/menu` 或 `/help` 的方式获取。
+* 更多详细指令可查阅竹萌百科的其它相关页面，也可通过在服务器内输入指令 `/menu` 或 `/help` 的方式获取。
 * 待完善。
 
 ### 传送类
@@ -10,15 +10,15 @@
 | 指令 | 说明 | 备注 |
 | :--- | :--- | :--- |
 | `/spawn` | 回到竹萌默认出生点 |  |
-| `/tpa [玩家 ID]` | 请求传送至指定玩家 | 收费 11 D |
-| `/tpahere [玩家 ID]` | 请求指定玩家传送至自己 | 收费 11 D |
+| `/tpa [玩家 ID]` | 请求传送至指定玩家 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
+| `/tpahere [玩家 ID]` | 请求指定玩家传送至自己 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
 | `/tpacancel` | 取消传送请求 |  |
-| `/back` | 返回至上一个位置 | 收费 22 D |
-| `/home` | 传送至家 | 收费 11 D |
-| `/home bed` | 传送至上一次使用过的床的位置 | 收费 11 D |
-| `/home [家的名称]` | 传送至指定名称的家 | 收费 11 D |
-| `/sethome` | 设置一个名称为`home`的家 | 收费 (5+n^2)^2 D |
-| `/sethome [家的名称]` | 设置一个指定名称的家 | 收费 (5+n^2)^2 D |
+| `/back` | 返回至上一个位置 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
+| `/home` | 传送至家 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
+| `/home bed` | 传送至上一次使用过的床的位置 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
+| `/home [家的名称]` | 传送至指定名称的家 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
+| `/sethome` | 在当前位置设置一个名称为`home`的家 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
+| `/sethome [家的名称]` | 在当前位置设置一个指定名称的家 | 收费，详细信息可参考[传送相关](../server-world/plugins/survice.md#tp) |
 | `/delhome [家的名称]` | 删除一个指定名称的家 |  |
 | `/server [世界代号]` | 传送至指定的子服务器 |  |
 
