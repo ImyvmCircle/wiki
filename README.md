@@ -14,12 +14,9 @@
 
 ## 服务器地址
 
-* 主用地址1`play.imyvm.com`
-* 主用地址2`main.imyvm.com`
-* 备用地址1`cn1.imyvm.com`
-* 备用地址2`cn2.imyvm.com`
-* 境外地址1`hk1.imyvm.com`
-* 境外地址2`hk2.imyvm.com`
+* 主用地址 `play.imyvm.com` `main.imyvm.com`
+* 备用地址 `cn1.imyvm.com` `cn2.imyvm.com`
+* 境外地址 `hk1.imyvm.com` `hk2.imyvm.com`
 
 如果你是第一次来到竹萌或者并不熟知服务器的生存内容，请参阅 [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com/教程)
 
