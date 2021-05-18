@@ -1,10 +1,10 @@
 # 首页
 
-**服务器白名单开启中，**[**点击申请**](https://apply.imyvm.com)
+**服务器白名单开启中，**[**点击申请**](https://apply.imyvm.org)
 
 服务器版本：SpigotMC 1.16.5 **正版验证**
 
-[主页](https://imyvm.com) \| [竹萌的后花园](https://discuss.imyvm.org) \| [常见问题](start/fqs.md) \| [竹萌规则](start/rules.md) \| [动态地图](https://map.imyvm.com)
+[主页](https://imyvm.org) \| [竹萌的后花园](https://discuss.imyvm.org) \| [常见问题](start/fqs.md) \| [竹萌规则](start/rules.md) \| [动态地图](https://map.imyvm.org)
 
 ## 服务器设定
 
@@ -22,7 +22,7 @@
 
 ## 联系
 
-[竹萌主页](https://imyvm.com) \| [竹萌百科](https://wiki.imyvm.org) \| [竹萌的后花园](https://discuss.imyvm.org)
+[竹萌主页](https://imyvm.org) \| [竹萌百科](https://wiki.imyvm.org) \| [竹萌的后花园](https://discuss.imyvm.org)
 
 如果需要帮助，请在游戏内直接联系管理员。
 
