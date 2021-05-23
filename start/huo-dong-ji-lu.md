@@ -2,8 +2,9 @@
 
 ## 2021
 
+* [【2021/5/1 活动】劳动光荣](https://discuss.imyvm.org/d/388-202151)
 * [【竹萌5周年】I Miss You Very Much](https://discuss.imyvm.org/d/381-5i-miss-you-very-much)
-* [【2021 常驻】竹萌斗地主大赛S1](https://discuss.imyvm.org/d/379-2021s1/7)
+* [【2021 常驻】竹萌斗地主大赛S1](https://discuss.imyvm.org/d/379-2021s1)
 * [【鸠羽村年度活动】帮“爱哭鬼”找到回家的路](https://discuss.imyvm.org/d/378)
 * [【2021年春节活动】风雪吹过的林海\~A Dream about the Memory\~](https://discuss.imyvm.org/d/376-2021a-dream-about-the-memory)
 
