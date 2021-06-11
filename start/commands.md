@@ -60,9 +60,9 @@
 | `/jobs limit` | 显示职业的报酬限制 | 更多信息可通过在游戏内输入 `/jobs` 查询 |
 | `/co inspect` | 开启方块变更查询模式，再次输入以关闭该模式 | `inspect`可简写为`i` |
 | `/dynmap webregister` | 获取动态地图注册账号与注册码 |  |
-| `/tps:tpsx toggle bar` | 在快捷栏上方显示服务器的`TPS`与`MSTP` | `tps:tpsx`可简写为`tpsx` |
-| `/tps:tpsx toggle tab` | 在`tab`玩家列表底部显示服务器的`TPS`与`MSTP` | `tps:tpsx`可简写为`tpsx` |
-| `/tps:tpsx toggle disable` | 关闭服务器的`TPS`与`MSTP`显示 | `tps:tpsx`可简写为`tpsx` |
+| `/tpsx toggle bar` | 在快捷栏上方显示服务器的`TPS`与`MSTP` |  |
+| `/tpsx toggle tab` | 在`tab`玩家列表底部显示服务器的`TPS`与`MSTP` |  |
+| `/tpsx toggle disable` | 关闭服务器的`TPS`与`MSTP`显示 |  |
 
 ## 娱乐类
 
