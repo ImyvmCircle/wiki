@@ -346,7 +346,7 @@ description: 在原版基础上增加的额外内容，该地图采用Epic地图
 | 帕尔帕庭之眼 | 1.408% | 魔法书 | 1.408% |
 | 权杖 | 1.972% | 小矮人的镐子 | 2.253% |
 | 权杖 | 2.817% | 杰罗尼莫式莫卡辛鞋 | 2.817% |
-| 不灭之刀 | 2.817% | 幻想封印[瞬] | 2.817% |
+| 不灭之刀 | 2.817% | 幻想封印\[瞬\] | 2.817% |
 | Eliminator's Pants | 11.266% | Eliminator's Boots | 11.266% |
 | Eliminator's Helmet | 11.266% | Eliminator's Helmet | 14.083% |
 | Eliminator's Pants | 14.083% | Eliminator's Boots | 14.083% |
@@ -361,7 +361,7 @@ description: 在原版基础上增加的额外内容，该地图采用Epic地图
 | いまは遥か理想の城 | 1.873% | 桃木剑II | 1.873% |
 | 桃木剑III | 1.873% | 桃木剑I | 1.873% |
 | 杰罗尼莫式莫卡辛鞋 | 2.060% | 不灭之刀 | 2.060% |
-| 幻想封印[瞬] | 2.060% | Eliminator's Pants | 13.109% |
+| 幻想封印\[瞬\] | 2.060% | Eliminator's Pants | 13.109% |
 | Eliminator's Boots | 13.109% | Eliminator's Helmet | 13.109% |
 | Eliminator's Chestplate | 13.109% | Eliminator's Helmet | 14.981% |
 | Eliminator's Pants | 14.981% |  |  |

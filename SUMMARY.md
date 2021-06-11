@@ -29,15 +29,15 @@
   * [经济相关类插件](server-world/plugins/economy.md)
 * [村落](server-world/villages/README.md)
   * [大萝莉镇](server-world/villages/superloli.md)
-  * [堕落之巅](server-world/villages/duo-luo-zhi-dian.md)
+  * [堕落之巅](server-world/villages/duo-la-zhi-dian.md)
   * [静溪村](server-world/villages/still_creek.md)
   * [鸠羽村](server-world/villages/jiu-yu.md)
   * [蓝海村](server-world/villages/blue_sea.md)
-  * [临冬城](server-world/villages/winterfell.md)
-    * [龙榆岭](server-world/villages/dragonhorn.md)
+  * [临冬城](server-world/villages/winterfell/README.md)
+    * [龙榆岭](server-world/villages/winterfell/dragonhorn.md)
   * [猫屁市](server-world/villages/mao-pi.md)
   * [小泉村](server-world/villages/xiao-quan.md)
-  * [雁落平阳](server-world/villages/yan-luo-ping-yang.md)
+  * [雁落平阳](server-world/villages/yan-la-ping-yang.md)
 
 ## 小游戏世界 <a id="server-fun"></a>
 
@@ -47,7 +47,7 @@
   * [掘一死战](server-fun/zi-zhi-xiao-you-xi/jue-yi-si-zhan.md)
   * [谁是金刚](server-fun/zi-zhi-xiao-you-xi/shui-shi-jin-gang.md)
   * [海上对弈](server-fun/zi-zhi-xiao-you-xi/hai-shang-dui-yi.md)
-  * [什么垃圾](server-fun/zi-zhi-xiao-you-xi/shen-me-la-ji.md)
+  * [什么垃圾](server-fun/zi-zhi-xiao-you-xi/shi-mo-la-ji.md)
   * [矿工战争](server-fun/zi-zhi-xiao-you-xi/kuang-gong-zhan-zheng.md)
   * [海底世界](server-fun/zi-zhi-xiao-you-xi/hai-di-shi-jie.md)
   * [沙漠世界](server-fun/zi-zhi-xiao-you-xi/sha-mo-shi-jie.md)

@@ -5,7 +5,7 @@
 * 更多详细指令可查阅竹萌百科的其它相关页面，也可通过在服务器内输入指令 `/menu` 或 `/help` 的方式获取。
 * 待完善。
 
-### 传送类
+## 传送类
 
 | 指令 | 说明 | 备注 |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@
 | `/delhome [家的名称]` | 删除一个指定名称的家 |  |
 | `/server [世界代号]` | 传送至指定的子服务器 |  |
 
-### 经济类
+## 经济类
 
 | 指令 | 说明 | 备注 |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
 | `/auction info` | 查看当前拍卖的详情 | `auction`可简写为`auc` |
 | `/bid [价格]` | 以指定价格参与拍卖 |  |
 
-### 信息类
+## 信息类
 
 | 指令 | 说明 | 备注 |
 | :--- | :--- | :--- |
@@ -64,7 +64,7 @@
 | `/tps:tpsx toggle tab` | 在`tab`玩家列表底部显示服务器的`TPS`与`MSTP` | `tps:tpsx`可简写为`tpsx` |
 | `/tps:tpsx toggle disable` | 关闭服务器的`TPS`与`MSTP`显示 | `tps:tpsx`可简写为`tpsx` |
 
-### 娱乐类
+## 娱乐类
 
 | 指令 | 说明 | 备注 |
 | :--- | :--- | :--- |
@@ -77,7 +77,7 @@
 | `/reaction wins` | 查看词语快打获胜次数 |  |
 | `/reaction top` | 查看词语快打获胜排行 |  |
 
-### 功能类
+## 功能类
 
 | 指令 | 说明 | 备注 |
 | :--- | :--- | :--- |
@@ -87,11 +87,11 @@
 | `/fgunlock` | 解锁指定的物品展示框 | `fgunlock`可简写为`fgulk` |
 | `/afk` | 将状态转换为离开状态 | `afk`可用`away`替代 |
 | `/show` | 将手持物品展示至聊天栏 | `show`可简写为`ss` |
-| `/excap store all` | 存取经验值(全部) | 需手持`附魔之瓶` |
-| `/excap store [数量]` | 存取经验值(指定数量) | 需手持`附魔之瓶` |
-| `/excap restore all` | 提取经验值(全部) | 需手持`附魔之瓶` |
-| `/excap restore [数量]` | 提取经验值(指定数量) | 需手持`附魔之瓶` |
-| `/xpfly` | 开启经验飞行，再次输入以关闭飞行 | 若经验耗尽，飞行将自动关闭(有摔落伤害) |
+| `/excap store all` | 存取经验值\(全部\) | 需手持`附魔之瓶` |
+| `/excap store [数量]` | 存取经验值\(指定数量\) | 需手持`附魔之瓶` |
+| `/excap restore all` | 提取经验值\(全部\) | 需手持`附魔之瓶` |
+| `/excap restore [数量]` | 提取经验值\(指定数量\) | 需手持`附魔之瓶` |
+| `/xpfly` | 开启经验飞行，再次输入以关闭飞行 | 若经验耗尽，飞行将自动关闭\(有摔落伤害\) |
 | `/checklists` | 打开任务清单 | `checklists`可简写为`cl`，详细信息可参考[任务清单](https://discuss.imyvm.org/d/287-checklists) |
 | `/clearchat` | 清空聊天栏 |  |
 | `/itemmail send` | 将手持物品传送至远程物品箱 | 收费，详细信息可参考[物品邮箱](../server-world/plugins/survice.md#imail)；`itemmail`可简写为`imail` |
@@ -99,6 +99,6 @@
 | `/itemmail send [玩家 ID]` | 将手持物品传送至指定玩家的远程物品箱 | 收费，详细信息可参考[物品邮箱](../server-world/plugins/survice.md#imail)；`itemmail`可简写为`imail` |
 | `/itemmail merge` | 打包背包内的所有物品至一起 | 收费，详细信息可参考[物品邮箱](../server-world/plugins/survice.md#imail)；`itemmail`可简写为`imail` |
 | `/itemmail get` | 从远程物品箱提取物品 | 执行后将提取远程物品箱内的所有物品，若背包空间不足将导致操作失败；`itemmail`可简写为`imail` |
-| `/itemmail open` | 查看远程物品箱(仅查看) | `itemmail`可简写为`imail` |
-| `/itemmail release` | 提取打包至一起的所有物品(需手持) | `itemmail`可简写为`imail` |
+| `/itemmail open` | 查看远程物品箱\(仅查看\) | `itemmail`可简写为`imail` |
+| `/itemmail release` | 提取打包至一起的所有物品\(需手持\) | `itemmail`可简写为`imail` |
 
