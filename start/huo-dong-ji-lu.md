@@ -2,6 +2,7 @@
 
 ## 2021
 
+* [【2021年暑假活动】竹萌推理大会](https://discuss.imyvm.org/d/400-2021)
 * [【2021/5/1 活动】劳动光荣](https://discuss.imyvm.org/d/388-202151)
 * [【竹萌5周年】I Miss You Very Much](https://discuss.imyvm.org/d/381-5i-miss-you-very-much)
 * [【2021 常驻】竹萌斗地主大赛S1](https://discuss.imyvm.org/d/379-2021s1)
