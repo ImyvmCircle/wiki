@@ -2,7 +2,7 @@
 
 **服务器白名单开启中，**[**点击申请**](https://apply.imyvm.org)
 
-服务器版本：SpigotMC 1.16.5 **正版验证**
+服务器版本：SpigotMC 1.17.1 **正版验证**
 
 [主页](https://imyvm.org) \| [竹萌的后花园](https://discuss.imyvm.org) \| [常见问题](start/fqs.md) \| [竹萌规则](start/rules.md) \| [动态地图](https://map.imyvm.org)
 
