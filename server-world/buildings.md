@@ -8,7 +8,7 @@
 
 ### UHC 奖杯
 
-UHC 大赛冠军展示。有关 UHC 玩法详见：[UHC 世界|概述|玩法](../server-uhc/index.md#wan-fa)
+UHC 大赛冠军展示。有关 UHC 玩法详见：[UHC 世界 | 概述 | 玩法](../server-uhc/index.md#wan-fa)
 
 ![UHC 奖杯](https://s2.loli.net/2022/02/17/hH2J6zr8LvYKe7w.png)
 
