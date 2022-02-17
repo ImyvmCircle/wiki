@@ -26,43 +26,43 @@
 
 ## 交通线路图
 
-![](../../.gitbook/assets/e8-93-9d-e6-b5-b7-e7-ba-bf-e8-b7-af-e5-9b-be.png)
+![](../../.gitbook/assets/Blue-Sea-Rail-Transit-Map.png)
 
 ## 村落内玩家建筑
 
 ### 传送中心
 
-![](../../.gitbook/assets/e4-bc-a0-e9-80-81-e4-b8-ad-e5-bf-83.png)
+![](../../.gitbook/assets/Blue-Sea-Teleport-Center.png)
 
 ### 枢纽车站
 
-![](../../.gitbook/assets/e6-9e-a2-e7-ba-bd-e8-bd-a6-e7-ab-99.png)
+![](../../.gitbook/assets/Blue-Sea-Junction-Station.png)
 
 ### 村落共享仓库
 
-![](../../.gitbook/assets/e4-bb-93-e5-ba-93.png)
+![](../../.gitbook/assets/Blue-Sea-Warehouse.png)
 
 ### HUGOHANG 家
 
-![](../../.gitbook/assets/hugohang.png)
+![](../../.gitbook/assets/Blue-Sea-House-Of-HUGOHANG.png)
 
 ### dealvian 家
 
-![](../../.gitbook/assets/77-e5-ae-b6.png)
+![](../../.gitbook/assets/Blue-Sea-House-Of-dealvian.png)
 
 ### B\_Yangfan 家
 
-![](../../.gitbook/assets/xiaofan-e5-ae-b6.png)
+![](../../.gitbook/assets/Blue-Sea-House-Of-B_Yangfan.png)
 
 ### sun4256 家
 
-![](../../.gitbook/assets/sun4256.png)
+![](../../.gitbook/assets/Blue-Sea-House-Of-sun4256.png)
 
 ### 观光建筑（在建）
 
-![](../../.gitbook/assets/e8-a7-82-e5-85-89-e5-bb-ba-e7-ad-91_-e5-9c-a8-e5-bb-ba_.png)
+![](../../.gitbook/assets/Blue-Sea-Building%20%281%29.png)
 
 ### 其他建筑一览
 
-![](../../.gitbook/assets/hugohang-e7-9a-84-e5-88-ab-e5-a2-85%20%281%29.png)
+![](../../.gitbook/assets/Blue-Sea-Building%20%282%29.png)
 
