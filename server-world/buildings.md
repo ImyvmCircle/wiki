@@ -1,38 +1,38 @@
 # 公共建筑
 
-## 公告大厅
+### 公告大厅
 
-服务器的主要资讯站：萌新新萌结拜点、招工通知、活动通知、涂鸦墙等
+服务器的主要资讯站：萌新新萌结拜点、招工通知、活动通知、涂鸦墙等。
 
-![&#x516C;&#x544A;&#x5927;&#x5385;](https://i.imgur.com/BYxJL7R.jpg)
+![2022-02-17_17.29.33.png](https://s2.loli.net/2022/02/17/smK23FonBTLJbNC.png)
 
-## UHC奖杯
+### UHC 奖杯
 
 UHC大赛冠军展示，有关UHC玩法详见：\[\[世界设定:小游戏世界:uhc\|UHC（超极限生存）\]\]
 
-![UHC&#x5956;&#x676F;](https://i.imgur.com/vkDISj9.jpg)
+![2022-02-17_17.32.46.png](https://s2.loli.net/2022/02/17/hH2J6zr8LvYKe7w.png)
 
-## 派出所
+### 警察局
 
-![&#x6D3E;&#x51FA;&#x6240;](https://i.imgur.com/oV9RgdD.jpg)
+![2022-02-17_17.33.39.png](https://s2.loli.net/2022/02/17/XCob2ZwqMadVHSy.png)
 
-## 银行
+### 银行
 
-![](https://i.imgur.com/Cz7oqE2.jpg)
+![2022-02-17_17.35.52.png](https://s2.loli.net/2022/02/17/rCQpHsIvyzoSBkF.png)
 
-## 建筑师之家
+### 建筑师之家
 
-![](https://i.imgur.com/gKrWcgL.jpg)
+![2022-02-17_17.41.48.png](https://s2.loli.net/2022/02/17/mV6rJDHW1C4pZlg.png)
 
-## 画廊
+### 画廊
 
-![](https://i.imgur.com/ygfcmuS.jpg)
+![2022-02-17_17.45.13.png](https://s2.loli.net/2022/02/17/StyT8C4nlDwJB9e.png)
 
-## 黑石酒吧
+### 黑石酒吧
 
-![](https://i.imgur.com/GH1jexl.jpg)
+![2022-02-17_17.47.46.png](https://s2.loli.net/2022/02/17/d6OYfLK81JxaluQ.png)
 
-## 车站
+### 车站
 
-![](https://i.imgur.com/iiku0L5.jpg)
+![2022-02-17_17.49.40.png](https://s2.loli.net/2022/02/17/qjFiJnWxUDeBbsg.png)
 
