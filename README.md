@@ -1,8 +1,10 @@
 # 首页
 
+欢迎加入竹萌大家庭！**新周目开荒中~**
+
 **服务器白名单开启中，**[**点击申请**](https://apply.imyvm.org)
 
-服务器版本：SpigotMC 1.18.2 **正版验证**
+服务器版本：SpigotMC 1.19 **正版验证**
 
 [主页](https://imyvm.org) \| [竹萌的后花园](https://discuss.imyvm.org) \| [常见问题](start/fqs.md) \| [竹萌规则](start/rules.md) \| [动态地图](https://map.imyvm.org)
 
@@ -16,7 +18,6 @@
 
 * 主用地址 `play.imyvm.com` `main.imyvm.com`
 * 备用地址 `cn1.imyvm.com` `cn2.imyvm.com`
-* 境外地址 `hk1.imyvm.com` `hk2.imyvm.com`
 
 如果你是第一次来到竹萌或者并不熟知服务器的生存内容，请参阅 [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com/教程)
 
@@ -26,7 +27,7 @@
 
 如果需要帮助，请在游戏内直接联系管理员。
 
-您可以在以下位置找到我们：
+您还可以在以下位置找到我们：
 
 * QQ群：170988020
 * Discord：[https://discord.gg/GR68dwg](https://discord.gg/GR68dwg)
