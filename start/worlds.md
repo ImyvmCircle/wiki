@@ -12,7 +12,9 @@
 
 代号：`World`
 
-{% page-ref page="../server-world/index.md" %}
+{% content-ref url="../server-world/index.md" %}
+[index.md](../server-world/index.md)
+{% endcontent-ref %}
 
 ## 小游戏世界
 
@@ -24,7 +26,9 @@
 
 代号：`Fun`
 
-{% page-ref page="../server-fun/index.md" %}
+{% content-ref url="../server-fun/index.md" %}
+[index.md](../server-fun/index.md)
+{% endcontent-ref %}
 
 ## 创造世界
 
@@ -32,7 +36,9 @@
 
 代号：`Create`
 
-{% page-ref page="../server-create/index.md" %}
+{% content-ref url="../server-create/index.md" %}
+[index.md](../server-create/index.md)
+{% endcontent-ref %}
 
 ## 未来世界
 
@@ -40,17 +46,22 @@
 
 代号：`Future`
 
-{% page-ref page="../server-future/index.md" %}
+{% content-ref url="../server-future/index.md" %}
+[index.md](../server-future/index.md)
+{% endcontent-ref %}
 
 ## 活动世界
 
 代号：`Event`
 
-{% page-ref page="../server-event/index.md" %}
+{% content-ref url="../server-event/index.md" %}
+[index.md](../server-event/index.md)
+{% endcontent-ref %}
 
 ## UHC 世界
 
 代号：`UHC`
 
-{% page-ref page="../server-uhc/index.md" %}
-
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

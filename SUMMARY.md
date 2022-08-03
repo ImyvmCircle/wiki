@@ -12,7 +12,7 @@
 * [世界设定](start/worlds.md)
 * [活动记录](start/huo-dong-ji-lu.md)
 
-## 永恒世界 <a id="server-world"></a>
+## 永恒世界 <a href="#server-world" id="server-world"></a>
 
 * [概述](server-world/index.md)
 * [玩家权限组](server-world/permissions.md)
@@ -30,16 +30,16 @@
 * [村落](server-world/villages/README.md)
   * [大萝莉镇](server-world/villages/superloli.md)
   * [堕落之巅](server-world/villages/duo-la-zhi-dian.md)
-  * [静溪村](server-world/villages/still_creek.md)
+  * [静溪村](server-world/villages/still\_creek.md)
   * [鸠羽村](server-world/villages/jiu-yu.md)
-  * [蓝海村](server-world/villages/blue_sea.md)
+  * [蓝海村](server-world/villages/blue\_sea.md)
   * [临冬城](server-world/villages/winterfell/README.md)
     * [龙榆岭](server-world/villages/winterfell/dragonhorn.md)
   * [猫屁市](server-world/villages/mao-pi.md)
   * [小泉村](server-world/villages/xiao-quan.md)
   * [雁落平阳](server-world/villages/yan-la-ping-yang.md)
 
-## 小游戏世界 <a id="server-fun"></a>
+## 小游戏世界 <a href="#server-fun" id="server-fun"></a>
 
 * [概述](server-fun/index.md)
 * [自制小游戏](server-fun/zi-zhi-xiao-you-xi/README.md)
@@ -52,23 +52,17 @@
   * [海底世界](server-fun/zi-zhi-xiao-you-xi/hai-di-shi-jie.md)
   * [沙漠世界](server-fun/zi-zhi-xiao-you-xi/sha-mo-shi-jie.md)
 
-## 创造世界 <a id="server-create"></a>
+## 创造世界 <a href="#server-create" id="server-create"></a>
 
 * [概述](server-create/index.md)
 * [插件](server-create/plugins.md)
 
-## 未来世界 <a id="server-future"></a>
+## 未来世界 <a href="#server-future" id="server-future"></a>
 
 * [概述](server-future/index.md)
 * [插件](server-future/plugins.md)
 * [版本更新记录](server-future/version-changelogs.md)
 
-## 活动世界 <a id="server-event"></a>
+## 活动世界 <a href="#server-event" id="server-event"></a>
 
 * [概述](server-event/index.md)
-
-## UHC 世界 <a id="server-uhc"></a>
-
-* [概述](server-uhc/index.md)
-* [场景介绍](server-uhc/introductions.md)
-
