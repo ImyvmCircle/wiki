@@ -32,8 +32,8 @@
 
 ## 小游戏世界
 
-{% hint style="danger" %}
-**小游戏世界维护中**
+{% hint style="warning" %}
+小游戏世界维护中
 {% endhint %}
 
 拥有各类竹萌自制的小游戏的世界。
@@ -45,6 +45,10 @@
 {% endcontent-ref %}
 
 ## 创造世界
+
+{% hint style="warning" %}
+创造世界维护中
+{% endhint %}
 
 一个测试、自由创造的世界，无下界和末地。
 
