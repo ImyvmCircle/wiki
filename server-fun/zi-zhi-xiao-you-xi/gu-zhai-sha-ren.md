@@ -43,5 +43,5 @@
 ## 制作
 
 * 作者：MineCrocodile
-* 建筑师：Dealvian、Ahchieng
+* 建筑师：Ahchieng、Dealvian
 
