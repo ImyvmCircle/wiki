@@ -1,8 +1,8 @@
 # 世界设定
 
-竹萌服务器采用 Bungeecord 群组各子服务器。
+竹萌服务器采用 BungeeCord 群组各子服务器。
 
-各服务器之间采用 IRC 频道实现聊天同步，同时通过 IRC 频道转发游戏内聊天到各个游戏群组`（Discord #imissyouverymuch & Telegram）`。
+~~各服务器之间采用 IRC 频道实现聊天同步，同时通过 IRC 频道转发游戏内聊天到各个游戏群组`（Discord #imissyouverymuch & Telegram）`。~~
 
 目前仅`永恒世界（代号：World）`、`未来世界（代号：Future）`和`小游戏世界（代号：Fun）`实现经济互通，其余各服务器均相互独立。各服务器之间可以通过在服务器内输入指令 `/server [代号]` 进行传送。
 
