@@ -44,13 +44,13 @@
 * [概述](server-fun/index.md)
 * [自制小游戏](server-fun/zi-zhi-xiao-you-xi/README.md)
   * [古宅杀人](server-fun/zi-zhi-xiao-you-xi/gu-zhai-sha-ren.md)
-  * [掘一死战](server-fun/zi-zhi-xiao-you-xi/jue-yi-si-zhan.md)
-  * [谁是金刚](server-fun/zi-zhi-xiao-you-xi/shui-shi-jin-gang.md)
-  * [海上对弈](server-fun/zi-zhi-xiao-you-xi/hai-shang-dui-yi.md)
-  * [什么垃圾](server-fun/zi-zhi-xiao-you-xi/shi-mo-la-ji.md)
-  * [矿工战争](server-fun/zi-zhi-xiao-you-xi/kuang-gong-zhan-zheng.md)
   * [海底世界](server-fun/zi-zhi-xiao-you-xi/hai-di-shi-jie.md)
+  * [海上对弈](server-fun/zi-zhi-xiao-you-xi/hai-shang-dui-yi.md)
+  * [掘一死战](server-fun/zi-zhi-xiao-you-xi/jue-yi-si-zhan.md)
+  * [矿工战争](server-fun/zi-zhi-xiao-you-xi/kuang-gong-zhan-zheng.md)
   * [沙漠世界](server-fun/zi-zhi-xiao-you-xi/sha-mo-shi-jie.md)
+  * [谁是金刚](server-fun/zi-zhi-xiao-you-xi/shui-shi-jin-gang.md)
+  * [什么垃圾](server-fun/zi-zhi-xiao-you-xi/shen-me-la-ji.md)
 
 ## 创造世界 <a href="#server-create" id="server-create"></a>
 
