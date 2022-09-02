@@ -6,11 +6,15 @@
 
 目前仅`永恒世界（代号：World）`、`未来世界（代号：Future）`和`小游戏世界（代号：Fun）`实现经济互通，其余各服务器均相互独立。各服务器之间可以通过在服务器内输入指令 `/server [代号]` 进行传送。
 
-## 永恒世界
+## 怀旧世界
 
-竹萌玩家的核心活动世界，有独立的下界和末地，有附属的[精英怪世界](../server-world/infernal.md)。
+{% hint style="info" %}
+单击[此处](https://discuss.imyvm.org/d/412)查看关于二周目时期建筑物与物品的搬迁方案
+{% endhint %}
 
-代号：`World`
+曾为`二周目`时期的**永恒世界**，`三周目`开启后正式更名为**怀旧世界**。
+
+代号：`Old_World`
 
 {% content-ref url="../server-world/index.md" %}
 [index.md](../server-world/index.md)
