@@ -12,7 +12,7 @@
 
 {% page-ref page="sha-mo-shi-jie.md" %}
 
-{% page-ref page="shen-me-la-ji.md" %}
-
 {% page-ref page="shui-shi-jin-gang.md" %}
+
+{% page-ref page="shen-me-la-ji.md" %}
 
