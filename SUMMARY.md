@@ -12,6 +12,12 @@
 * [世界设定](start/worlds.md)
 * [活动记录](start/huo-dong-ji-lu.md)
 
+## 永恒世界 <a href="#server-world" id="server-world"></a>
+
+* [概述](server-world/index.md)
+* [玩家权限组](server-world/permissions.md)
+* [插件](server-world/plugins/README.md)
+
 ## 怀旧世界 <a href="#server-old" id="server-old"></a>
 
 * [概述](server-old/index.md)
