@@ -26,8 +26,8 @@
 
 代号：`Old_World`
 
-{% content-ref url="../server-world/index.md" %}
-[index.md](../server-world/index.md)
+{% content-ref url="../server-old_world/index.md" %}
+[index.md](../server-old_world/index.md)
 {% endcontent-ref %}
 
 ## 小游戏世界
