@@ -6,6 +6,16 @@
 
 目前仅`永恒世界（代号：World）`、`未来世界（代号：Future）`和`小游戏世界（代号：Fun）`实现经济互通，其余各服务器均相互独立。各服务器之间可以通过在服务器内输入指令 `/server [代号]` 进行传送。
 
+## 永恒世界
+
+竹萌新（三）周目世界，竹萌玩家的核心活动世界，有独立的下界和末地。
+
+代号：`World`
+
+{% content-ref url="../server-world/index.md" %}
+[index.md](../server-world/index.md)
+{% endcontent-ref %}
+
 ## 怀旧世界
 
 {% hint style="info" %}
@@ -60,12 +70,4 @@
 
 {% content-ref url="../server-event/index.md" %}
 [index.md](../server-event/index.md)
-{% endcontent-ref %}
-
-## UHC 世界
-
-代号：`UHC`
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
