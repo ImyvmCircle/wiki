@@ -1,5 +1,16 @@
 # 活动记录
 
+## 2022
+
+* [【2022 常驻】竹萌斗地主大赛S3](https://discuss.imyvm.org/d/418-2022)
+* [2022 竹萌夏日活动 —— Hide&Seek](https://discuss.imyvm.org/d/419-2022-hideseek)
+* [2022 竹萌夏日活动 —— TNTRun](https://discuss.imyvm.org/d/414-2022-tntrun)
+* [2022 竹萌夏日活动 —— 心跳水立方](https://discuss.imyvm.org/d/413-2022)
+* [2022 竹萌夏日活动 —— 烫手TNT](https://discuss.imyvm.org/d/410-2022-tnt)
+* [2022 竹萌夏日活动 —— 抢地皮](https://discuss.imyvm.org/d/407-2022)
+* [【2022竹萌夏日活动】导弹战争](https://discuss.imyvm.org/d/405-2022)
+* [【2022竹萌夏日活动】找礼物](https://discuss.imyvm.org/d/404-2022)
+
 ## 2021
 
 * [【2021年暑假活动】竹萌推理大会](https://discuss.imyvm.org/d/400-2021)
