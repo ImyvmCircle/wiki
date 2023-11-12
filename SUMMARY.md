@@ -16,7 +16,7 @@
 
 * [概述](server-world/index.md)
 * [玩家权限组](server-world/permissions.md)
-* [插件](server-world/plugins/README.md)
+* [插件](server-world/plugins.md)
 
 ## 怀旧世界 <a href="#server-old" id="server-old"></a>
 

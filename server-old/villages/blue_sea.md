@@ -26,17 +26,17 @@
 
 ## 交通线路图
 
-![](<../../.gitbook/assets/Blue-Sea-Rail-Transit-Map (1).png>)
+![](../../.gitbook/assets/Blue-Sea-Rail-Transit-Map.png)
 
 ## 村落内玩家建筑
 
 ### 传送中心
 
-![](<../../.gitbook/assets/Blue-Sea-Teleport-Center (1).png>)
+![](../../.gitbook/assets/Blue-Sea-Teleport-Center.png)
 
 ### 枢纽车站
 
-![](<../../.gitbook/assets/Blue-Sea-Junction-Station (1).png>)
+![](../../.gitbook/assets/Blue-Sea-Junction-Station.png)
 
 ### 村落共享仓库
 
@@ -44,7 +44,7 @@
 
 ### HUGOHANG 家
 
-![](../../.gitbook/assets/Blue-Sea-House-Of-HUGOHANG.png)
+![](<../../.gitbook/assets/Blue-Sea-House-Of-HUGOHANG (1).png>)
 
 ### dealvian 家
 
@@ -64,4 +64,4 @@
 
 ### 其他建筑一览
 
-![](<../../.gitbook/assets/Blue-Sea-Building (2) (3).png>)
+![](<../../.gitbook/assets/Blue-Sea-Building (2) (1).png>)
