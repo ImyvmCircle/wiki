@@ -4,10 +4,10 @@
 
 Minecraft 是一款集探索世界、采集资源、合成物品及生存冒险于一体的开放式沙盒游戏。竹萌服务器基于 Fabric-Carpet 与 SpigotMC 为玩家提供多人游戏平台，并在原版的基础上丰富了些许内容。如果你想获取关于 Minecraft 游戏本身的相关帮助，你可以参考：
 
-* [中文 Minecraft Wiki](https://minecraft-zh.gamepedia.com/)
-* [英文 Minecraft Wiki](https://minecraft.gamepedia.com/)
+* [中文 Minecraft Wiki](https://zh.minecraft.wiki/w/Minecraft_Wiki)
+* [英文 Minecraft Wiki](https://minecraft.wiki/)
 
-以及 Minecraft 官方提供的新手指南：[菜鸟手册](https://minecraft-zh.gamepedia.com/教程/菜鸟手册)。
+以及由社区维护的新手指南：[菜鸟手册](https://zh.minecraft.wiki/w/教程)。
 
 ## 初来乍到
 
